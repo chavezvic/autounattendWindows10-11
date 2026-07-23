@@ -1,6 +1,7 @@
 # NOPE autounattendWindows10-11
-# Generate autounattend installation for Windows 10/11
-
+### Generate autounattend installation for Windows 10/11
+[ ] box
+[x] no box
 
 This repository provides instructions for creating an unattended installation file (`autounattend.xml`) for Windows 10/11 using the [Schneegans Unattended Generator](https://schneegans.de/windows/unattend-generator/).
 
